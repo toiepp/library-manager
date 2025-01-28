@@ -1,0 +1,31 @@
+{
+  "booksLibraryApp": {
+    "book": {
+      "home": {
+        "title": "Книги",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Добавить новую книгу",
+        "reindexAllLabel": "Переиндексировать все книги",
+        "createOrEditLabel": "Создать или отредактировать книгу",
+        "search": "Найти книгу",
+        "notFound": "Книга не найдено"
+      },
+      "created": "Добавлена новая книга с идентификатором {{ param }}",
+      "updated": "Книга с идентификатором {{ param }} обновлена",
+      "deleted": "Книга с идентификатором {{ param }} удалена",
+      "delete": {
+        "question": "Вы уверены что хотите удалить книгу {{ id }}?"
+      },
+      "detail": {
+        "title": "Книга"
+      },
+      "id": "ID",
+      "isbn": "ISBN",
+      "title": "Название",
+      "author": "Автор",
+      "publishingYear": "Год издания",
+      "user": "Пользователь",
+      "library": "Библиотека"
+    }
+  }
+}

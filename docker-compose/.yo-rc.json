@@ -1,0 +1,12 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [],
+    "directoryPath": "../",
+    "gatewayType": "SpringCloudGateway",
+    "clusteredDbApps": [],
+    "monitoring": "no",
+    "serviceDiscoveryType": "eureka",
+    "deploymentType": "docker-compose",
+    "dockerRepositoryName": "BooksLibrary"
+  }
+}

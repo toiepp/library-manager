@@ -1,0 +1,4 @@
+id;login;password_hash;fio;address;email;image_url;activated;lang_key;created_by;last_modified_by
+1;admin;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;Иванов Андрей Васильевич;Москва, ул.Ленина, д.50, кв.12;admin@localhost.com;;true;ru;system;system
+2;employee1;$2a$10$BZ7CpIQVCdK4FwYILHalJuVMI//iNoFOPwcwwXEfH03Q45RupfDzS;Егоров Анатолий Петрович;Тула, ул.Пушкина, д.7, кв.23;employee1@localhost.com;;true;ru;system;system
+3;guest1;$2a$10$BZ7CpIQVCdK4FwYILHalJuVMI//iNoFOPwcwwXEfH03Q45RupfDzS;Петров Сергей Валерьевич;Новгород, ул.Зелёная, д.35, кв.15;guest1@localhost.com;;true;ru;system;system
